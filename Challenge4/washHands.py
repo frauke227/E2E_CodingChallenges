@@ -1,6 +1,5 @@
 # Wash your hands!
 
-#import humanfriendly
 import math
 
 
