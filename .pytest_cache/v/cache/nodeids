@@ -1,0 +1,6 @@
+[
+  "Challenge1/test_challenge1.py::test_multiples", 
+  "Challenge3/test_challenge3.py::test_palindrome", 
+  "SmallChallenges/SumItUp/test_sum.py::test_sum", 
+  "SmallChallenges/TestingStrings/test_String.py::test_string"
+]
