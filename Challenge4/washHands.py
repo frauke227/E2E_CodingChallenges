@@ -10,7 +10,7 @@ def wash_hands(N, nM):
     totalSeconds = N * 21 * nM * 30
     minutes = math.floor(totalSeconds/60)
     seconds = totalSeconds - minutes * 60
-    return(f'{minutes} minutes and {seconds} seconds')
+    return f'{minutes} minutes and {seconds} seconds'
 
 
 print(wash_hands(7, 9))
